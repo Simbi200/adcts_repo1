@@ -28,7 +28,7 @@
         "bootstrap-vue": "^2.15.0",
         "form-data": "^3.0.0",
         "jquery-ui": "^1.12.1",
-        "moment": "^2.27.0",
+        "moment": "^2.29.2",
         "portal-vue": "^2.1.7",
         "sweetalert2": "^9.15.2",
         "vform": "^1.0.1",
